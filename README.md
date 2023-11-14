@@ -5,4 +5,4 @@ Ever wondered how can you write files in Java? Feel free to try this code out!
 You have a 50% chance that the program will not harm your PC
 
 ### Important
-Don't read the source code otherwise you don't have a surprise
+Don't read the source code otherwise you won't have a surprise
